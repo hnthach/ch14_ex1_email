@@ -23,7 +23,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/apache-tomcat-9.0.109/lib/servlet-api.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/jakarta.activation-2.0.1.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -32,7 +32,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/jakarta.activation-2.0.1.jar!/" />
+          <root url="jar://C:/apache-tomcat-9.0.108/lib/servlet-api.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />

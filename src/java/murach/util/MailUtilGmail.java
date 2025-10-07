@@ -19,9 +19,8 @@ public class MailUtilGmail {
         props.put("mail.smtp.host", "smtp.gmail.com");
         props.put("mail.smtp.port", "587");
 
-        final String username = "5.11t1.huynhhuuhuy@gmail.com";   // ⚠️ Gmail thật
-        final String password = "gvnnrmzwrajdlfqz";     // ⚠️ App Password (16 ký tự)
-
+        final String username = "thachhn160605@gmail.com";   // ⚠️ Gmail thật
+        final String password = "owpqnnzmsspjjbqb";     // ⚠️ App Password (16 ký tự)
         // 2️⃣ Tạo session có xác thực
         Session session = Session.getInstance(props, new Authenticator() {
             @Override
